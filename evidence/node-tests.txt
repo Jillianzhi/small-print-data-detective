@@ -1,0 +1,19 @@
+
+> test
+> node --test model.test.mjs
+
+✔ axis framing changes coordinates but not data or statistics (2.074416ms)
+✔ complete population has 20% club membership and mean42 (0.122042ms)
+✔ increasing club sample preserves exclusion and biased mean (2.619083ms)
+✔ all-resident draws reproduce, vary, include non-members and never mutate population (5.458208ms)
+✔ invalid sample states are rejected (0.513708ms)
+✔ factorial weather dataset has18 unique points with pooled but no within-group correlation (0.1825ms)
+✔ feedback does not reward common misconceptions (0.078ms)
+ℹ tests 7
+ℹ suites 0
+ℹ pass 7
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 64.994417

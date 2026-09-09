@@ -1,0 +1,82 @@
+[
+  {
+    "animation": "none",
+    "tag": "BUTTON",
+    "transition": "0s"
+  },
+  {
+    "animation": "none",
+    "tag": "MAIN",
+    "transition": "0s"
+  },
+  {
+    "animation": "none",
+    "tag": "SECTION",
+    "transition": "0s"
+  },
+  {
+    "animation": "none",
+    "tag": "BUTTON",
+    "transition": "0s"
+  },
+  {
+    "animation": "none",
+    "tag": "BUTTON",
+    "transition": "0s"
+  },
+  {
+    "animation": "none",
+    "tag": "BUTTON",
+    "transition": "0s"
+  },
+  {
+    "animation": "none",
+    "tag": "BUTTON",
+    "transition": "0s"
+  },
+  {
+    "animation": "none",
+    "tag": "BUTTON",
+    "transition": "0s"
+  },
+  {
+    "animation": "none",
+    "tag": "SECTION",
+    "transition": "0s"
+  },
+  {
+    "animation": "none",
+    "tag": "svg",
+    "transition": "0s"
+  },
+  {
+    "animation": "none",
+    "tag": "svg",
+    "transition": "0s"
+  },
+  {
+    "animation": "none",
+    "tag": "BUTTON",
+    "transition": "0s"
+  },
+  {
+    "animation": "none",
+    "tag": "BUTTON",
+    "transition": "0s"
+  },
+  {
+    "animation": "none",
+    "tag": "BUTTON",
+    "transition": "0s"
+  },
+  {
+    "animation": "none",
+    "tag": "BUTTON",
+    "transition": "0s"
+  },
+  {
+    "animation": "none",
+    "tag": "BUTTON",
+    "transition": "0s"
+  }
+]
